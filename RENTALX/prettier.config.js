@@ -1,0 +1,3 @@
+module = {
+    singleQuote: false,
+}
